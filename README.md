@@ -10,10 +10,19 @@ This project is a **Solar System simulation** built using Unity. It features a r
 ## Play Online  
 🔗 **[Solar System on Itch.io](https://aasthabhatia.itch.io/solar-system)**  
 
+## Download  
+This project is available for download on the following platforms:  
+
+- **Windows** (ZIP)  
+- **macOS** (ZIP)  
+
+📥 **Download links are available on the Itch.io page.**  
+
 ## How to Use  
-1. Click the link above to play the game online.  
-2. Observe the **rotating celestial bodies** in space.  
-3. Watch the **comet move in a loop** as part of the simulation.  
+1. Click the **Itch.io link** above to play online or download the project.  
+2. If downloading, extract the ZIP file and run the executable.  
+3. Observe the **rotating celestial bodies** in space.  
+4. Watch the **comet move in a loop** as part of the simulation.  
 
 ## About  
 This project was created while learning **game design and development** using Unity.  
@@ -23,4 +32,4 @@ This project is open-source. Feel free to explore and modify.
 
 ---
 
-Just copy and paste this into your **README.md** file, and you're good to go! 🚀 Let me know if you need any tweaks. 😊
+Now it's complete with **download details!** 🚀 Let me know if you need any more edits. 😊  
