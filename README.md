@@ -1,38 +1,26 @@
-#!/bin/bash
+# 🌍 Solar System - Unity Project 🚀  
 
-# Solar System - Unity Project
+This project is a **Solar System simulation** built using Unity. It features a rotating **Sun, Earth, and Moon**, along with a **comet (Prefab)** that follows a repeating path in space.  
 
-echo "🌍 Solar System - Unity Project 🚀"
+## Features  
+- 🌞 **Sun, Earth, and Moon** with realistic rotation.  
+- ☄️ **Comet Prefab** following a periodic orbit.  
+- 🌌 **Space environment** with smooth animations.  
 
-echo ""
-echo "This is a Unity-based simulation of the Solar System, featuring:"
-echo "- A rotating Sun, Earth, and Moon."
-echo "- A comet (Prefab) following a periodic orbit."
-echo "- A vast space environment for an immersive experience."
-echo ""
+## Play Online  
+🔗 **[Solar System on Itch.io](https://aasthabhatia.itch.io/solar-system)**  
 
-echo "## Features"
-echo "- Realistic celestial body rotations."
-echo "- Prefab-based comet movement with looping behavior."
-echo "- Basic space environment simulation."
-echo ""
+## How to Use  
+1. Click the link above to play the game online.  
+2. Observe the **rotating celestial bodies** in space.  
+3. Watch the **comet move in a loop** as part of the simulation.  
 
-echo "## Play Online"
-echo "🔗 Available at: https://aasthabhatia.itch.io/solar-system"
-echo ""
+## About  
+This project was created while learning **game design and development** using Unity.  
 
-echo "## How to Use"
-echo "1. Click the link above to launch the project."
-echo "2. Observe the Sun, Earth, and Moon rotating."
-echo "3. Watch the comet follow its predefined path."
-echo ""
+## License  
+This project is open-source. Feel free to explore and modify.  
 
-echo "## About"
-echo "This project was developed as an introduction to Unity and game design."
-echo ""
+---
 
-echo "## License"
-echo "This project is open-source. Feel free to explore and modify."
-echo ""
-
-exit 0
+Just copy and paste this into your **README.md** file, and you're good to go! 🚀 Let me know if you need any tweaks. 😊
