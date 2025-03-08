@@ -31,5 +31,3 @@ This project was created while learning **game design and development** using Un
 This project is open-source. Feel free to explore and modify.  
 
 ---
-
-Now it's complete with **download details!** 🚀 Let me know if you need any more edits. 😊  
